@@ -1,5 +1,5 @@
 # Hi I'm Nagasaki 👋
-I'm mostly developing my stuff in my own in docker hosted gitea. So you only see the stuff where I'm involved
+I'm mostly developing my stuff in my own in docker hosted gitea. So you only see the stuff where I'm involved with others
 
 ## IT Stuff I do:
   - self hosting
